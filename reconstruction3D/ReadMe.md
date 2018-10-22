@@ -25,7 +25,7 @@ I use Matlab to realize the function,if you want to test the code,you shoule pay
 You can see more detalls in [SuperYanyann's Blog](https://superyanyann.github.io/2018/10/22/Project-Reconstruction-3D/#more)
 
 ## Result
-The corresponding points in each picture:
-![photo1](http://p33eqsoxi.bkt.clouddn.com/image/tif/3d/test/output1.JPG)
-The object we plan to rebuild:
+The corresponding points in each picture:<br>
+![photo1](http://p33eqsoxi.bkt.clouddn.com/image/tif/3d/test/output1.JPG)<br>
+The object we plan to rebuild:<br>
 ![photo1](http://p33eqsoxi.bkt.clouddn.com/image/tif/3d/test/output2.JPG)
