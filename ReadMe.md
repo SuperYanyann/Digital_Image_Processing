@@ -14,6 +14,13 @@ locating the QRcode in the photo and cut it.
 Date: 2018 9 22 <br>
 locating the Yellow Marking in the photo.
 
+### pedestrianDetection
+Date: 2018 10 11 <br>
+used to locate the people in the vedio
+
+### reconstruction3D
+Date: 2018 10 22 <br>
+using calibration board to get camera parameters, then rebuild the object.
 
 
 
