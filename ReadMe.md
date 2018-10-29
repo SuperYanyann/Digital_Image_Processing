@@ -24,7 +24,6 @@ using calibration board to get camera parameters, then rebuild the object.
 
 ### Images Stitching
 Date: 2018 10 29 <br>
-using calibration board to get camera parameters, then rebuild the object.
 used to stitch two images, then draw the lines between same features in two images.
 
 

@@ -4,7 +4,7 @@ Date: 2018 10 29 <br>
 
 ## Introduction
 The program is used to stitch two images, then draw the lines between same features in two images. <br>
-Using SIFT to find the homography,using knnMatch to implement feature matching.
+using SIFT to find the homography,using knnMatch to implement feature matching.
 
 ## Method
 The steps to achieve images stitching  are:
