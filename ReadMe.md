@@ -26,4 +26,6 @@ using calibration board to get camera parameters, then rebuild the object.
 Date: 2018 10 29 <br>
 used to stitch two images, then draw the lines between same features in two images.
 
-
+### Multi-Object Tracking
+Date: 2018 11 09 <br>
+used to find the tracks of multi-object, then draw all trackers in different colors.
